@@ -4,8 +4,15 @@
         <description><![CDATA[Killgore Forge]]></description>
         <link>https://thegrid.ai/killgore-forge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 21:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 21:15:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/killgore-forge/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b429d384-7b07-4595-96f6-d1803b467b92.jpg">]]></description>
+            <link>https://thegrid.ai/killgore-forge/hi-testing-the-site-this-site-will-be-all-about-bladesmith/index.html</link>
+            <guid isPermaLink="false">a405acfd-711d-40da-b2b0-4416000a8303</guid>
+            <pubDate>Mon, 11 Apr 2016 21:14:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e91a358d-1e89-4684-b9d6-fe9b18fe84b8.jpg">]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/killgore-forge/making-the-transition-to-hidden-tang-knives-with-guards/index.html</link>
             <guid isPermaLink="false">c9088d4a-4aff-4f07-8437-29a351b90e64</guid>
             <pubDate>Mon, 11 Apr 2016 20:30:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b429d384-7b07-4595-96f6-d1803b467b92.jpg">]]></description>
-            <link>https://thegrid.ai/killgore-forge/hi-testing-the-site-this-site-will-be-all-about-bladesmith/index.html</link>
-            <guid isPermaLink="false">a405acfd-711d-40da-b2b0-4416000a8303</guid>
-            <pubDate>Mon, 11 Apr 2016 20:15:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
