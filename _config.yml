@@ -1,4 +1,4 @@
-name: Killgore Forge
+name: Cody Killgore
 favicon: null
 layout_spectrum: 0.1351490227971226
 typography_spectrum: 0.44844
@@ -22,7 +22,7 @@ color:
     - '#d1d1d1'
     - '#886111'
     - '#e69d05'
-  brandStrength: 0.6875
+  brandStrength: 1
   lightness: 0.14002080680802464
   saturation: 0.6875
   rhythmicContrast: 0.8359727410133928
