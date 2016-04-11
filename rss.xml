@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Killgore Forge]]></title>
         <description><![CDATA[Killgore Forge]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/killgore-forge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 20:15:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 20:15:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/killgore-forge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b429d384-7b07-4595-96f6-d1803b467b92.jpg">]]></description>
-            <link>undefinedhi-testing-the-site-this-site-will-be-all-about-bladesmith/index.html</link>
+            <link>https://thegrid.ai/killgore-forge/hi-testing-the-site-this-site-will-be-all-about-bladesmith/index.html</link>
             <guid isPermaLink="false">a405acfd-711d-40da-b2b0-4416000a8303</guid>
-            <pubDate>Mon, 11 Apr 2016 20:14:44 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2016 20:15:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
