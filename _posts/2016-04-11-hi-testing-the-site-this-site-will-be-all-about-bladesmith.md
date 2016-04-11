@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Hi, testing the site. This site will be all about bladesmithing.'
-datePublished: '2016-04-11T20:14:44.057Z'
-dateModified: '2016-04-11T20:14:22.779Z'
+description: 'Hi, testing the site. This site will be all about bladesmithing. This is a pic of a portion of my home shop.'
+datePublished: '2016-04-11T20:15:37.832Z'
+dateModified: '2016-04-11T20:15:37.534Z'
 title: ''
 author: []
 authors: []
