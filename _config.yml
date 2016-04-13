@@ -1,6 +1,6 @@
 name: Cody Killgore
 favicon: null
-layout_spectrum: 0.59321
+layout_spectrum: 0.40516
 typography_spectrum: 0.17434
 title: Killgore Forge
 cta:
@@ -22,7 +22,7 @@ color:
     - '#160d04'
     - '#6a7476'
     - '#f8f743'
-  brandStrength: 0.25
+  brandStrength: 0.125
   lightness: 0.3125
   saturation: 1
   rhythmicContrast: 0.75
