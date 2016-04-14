@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Hi, testing the site. This site will be all about bladesmithing. This is a pic of a portion of my home shop.'
-datePublished: '2016-04-11T21:14:59.994Z'
-dateModified: '2016-04-11T21:06:34.562Z'
+datePublished: '2016-04-14T01:54:02.924Z'
+dateModified: '2016-04-11T21:15:07.081Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-11-hi-testing-the-site-this-site-will-be-all-about-bladesmith.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-11-hi-testing-the-site-this-site-will-be-all-about-bladesmith.md
-published: true
 url: hi-testing-the-site-this-site-will-be-all-about-bladesmith/index.html
 _type: Article
 
