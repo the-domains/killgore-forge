@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Making the transition to hidden tang knives with guards.
-datePublished: '2016-04-11T21:16:25.932Z'
-dateModified: '2016-04-11T21:03:50.263Z'
+datePublished: '2016-04-18T03:00:48.251Z'
+dateModified: '2016-04-18T02:55:07.341Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-11-making-the-transition-to-hidden-tang-knives-with-guards.md
