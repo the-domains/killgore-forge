@@ -4,8 +4,15 @@
         <description><![CDATA[Killgore Forge]]></description>
         <link>http://www.killgoreforge.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 03:00:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 03:06:27 GMT</lastBuildDate>
         <atom:link href="http://www.killgoreforge.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b429d384-7b07-4595-96f6-d1803b467b92.jpg">]]></description>
+            <link>http://www.killgoreforge.com/hi-testing-the-site-this-site-will-be-all-about-bladesmith/index.html</link>
+            <guid isPermaLink="false">a405acfd-711d-40da-b2b0-4416000a8303</guid>
+            <pubDate>Mon, 18 Apr 2016 03:05:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e27bcb9-4b73-43f4-88fd-ca8e0ac5fdbc.jpg">]]></description>
@@ -26,13 +33,6 @@
             <link>http://www.killgoreforge.com/27e74915-73bd-4958-8af1-80afee88e538/index.html</link>
             <guid isPermaLink="false">27e74915-73bd-4958-8af1-80afee88e538</guid>
             <pubDate>Mon, 18 Apr 2016 02:56:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b429d384-7b07-4595-96f6-d1803b467b92.jpg">]]></description>
-            <link>http://www.killgoreforge.com/hi-testing-the-site-this-site-will-be-all-about-bladesmith/index.html</link>
-            <guid isPermaLink="false">a405acfd-711d-40da-b2b0-4416000a8303</guid>
-            <pubDate>Thu, 14 Apr 2016 01:54:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
