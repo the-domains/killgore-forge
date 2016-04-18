@@ -4,7 +4,7 @@
         <description><![CDATA[Killgore Forge]]></description>
         <link>http://www.killgoreforge.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 03:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 04:02:37 GMT</lastBuildDate>
         <atom:link href="http://www.killgoreforge.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Mon, 18 Apr 2016 03:00:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08ab4589-4dc8-4eb1-a30d-cd25dd9b5722.jpg">]]></description>
+            <link>http://www.killgoreforge.com/6eb5aca8-58e2-4b5e-bf30-7df81610043f/index.html</link>
+            <guid isPermaLink="false">6eb5aca8-58e2-4b5e-bf30-7df81610043f</guid>
+            <pubDate>Mon, 18 Apr 2016 04:01:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Contact]]></title>
-            <description><![CDATA[<article><h1>Contact</h1><p>If you want to contact me, please send an email to cody@killgoreforge.com and I will get back with you.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13703d18-77b4-4693-b53d-e2e4e519a049.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13703d18-77b4-4693-b53d-e2e4e519a049.jpg">]]></description>
             <link>http://www.killgoreforge.com/1871bfe1-07dc-4d20-8373-c14fecdf1e1a/index.html</link>
             <guid isPermaLink="false">1871bfe1-07dc-4d20-8373-c14fecdf1e1a</guid>
             <pubDate>Mon, 18 Apr 2016 02:58:33 GMT</pubDate>
