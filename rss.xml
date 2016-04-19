@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Killgore Forge]]></title>
-        <description><![CDATA[Killgore Forge]]></description>
+        <title><![CDATA[Bladesmith Shop]]></title>
+        <description><![CDATA[Bladesmith Shop]]></description>
         <link>http://www.killgoreforge.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 04:34:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 23:19:20 GMT</lastBuildDate>
         <atom:link href="http://www.killgoreforge.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.killgoreforge.com/making-the-transition-to-hidden-tang-knives-with-guards/index.html</link>
             <guid isPermaLink="false">c9088d4a-4aff-4f07-8437-29a351b90e64</guid>
             <pubDate>Mon, 18 Apr 2016 03:00:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0328f50-7497-4566-b12d-be60137618ce.jpg">]]></description>
+            <link>http://www.killgoreforge.com/c3507e63-bd76-4848-8aea-3282b40fef2b/index.html</link>
+            <guid isPermaLink="false">c3507e63-bd76-4848-8aea-3282b40fef2b</guid>
+            <pubDate>Tue, 19 Apr 2016 23:19:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.killgoreforge.com/my-own-damascus-paired-with-some-amboyna-burl/index.html</link>
             <guid isPermaLink="false">177659b0-b829-4d1f-958b-e356757129c7</guid>
             <pubDate>Mon, 11 Apr 2016 21:03:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e6536ea-59a9-4722-a8da-1f3df350b67b.jpg">]]></description>
-            <link>http://www.killgoreforge.com/ae6e4f6c-bf2f-4fcb-8cf8-90dd5408f258/index.html</link>
-            <guid isPermaLink="false">ae6e4f6c-bf2f-4fcb-8cf8-90dd5408f258</guid>
-            <pubDate>Mon, 11 Apr 2016 20:39:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
