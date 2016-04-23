@@ -4,7 +4,7 @@
         <description><![CDATA[Bladesmith Shop]]></description>
         <link>http://www.killgoreforge.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 15:24:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 16:59:50 GMT</lastBuildDate>
         <atom:link href="http://www.killgoreforge.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.killgoreforge.com/making-the-transition-to-hidden-tang-knives-with-guards/index.html</link>
             <guid isPermaLink="false">c9088d4a-4aff-4f07-8437-29a351b90e64</guid>
             <pubDate>Mon, 18 Apr 2016 03:00:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Process]]></title>
+            <description><![CDATA[<p>The Process</p>]]></description>
+            <link>http://www.killgoreforge.com/the-process/index.html</link>
+            <guid isPermaLink="false">ad9f0189-f2af-47d2-aa94-88d52268e42a</guid>
+            <pubDate>Sat, 23 Apr 2016 16:59:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contact Me]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.killgoreforge.com/61276e1e-ecf5-4fce-a2c4-fb8b053e6db7/index.html</link>
             <guid isPermaLink="false">61276e1e-ecf5-4fce-a2c4-fb8b053e6db7</guid>
             <pubDate>Wed, 13 Apr 2016 21:54:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd1eaaa7-d6d0-4579-b0ae-a490bad8eb19.jpg">]]></description>
-            <link>http://www.killgoreforge.com/my-own-damascus-paired-with-some-amboyna-burl/index.html</link>
-            <guid isPermaLink="false">177659b0-b829-4d1f-958b-e356757129c7</guid>
-            <pubDate>Mon, 11 Apr 2016 21:03:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
