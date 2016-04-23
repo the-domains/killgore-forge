@@ -5,19 +5,19 @@ inNav: true
 inLanguage: null
 keywords: []
 description: The Process
-datePublished: '2016-04-23T16:59:49.665Z'
-dateModified: '2016-04-23T16:59:37.555Z'
+datePublished: '2016-04-23T20:17:41.457Z'
+dateModified: '2016-04-23T20:17:30.399Z'
 title: ''
+author: []
+sourcePath: _posts/2016-04-23-the-process.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
 starred: false
-sourcePath: _posts/2016-04-23-the-process.md
-published: true
 url: the-process/index.html
 _type: Article
 
