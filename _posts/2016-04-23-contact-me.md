@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'If you want to inquire about a knife, please shoot me an email at cody@killgoreforge.com. Alternatively, you can call or text to 318-607-7198'
-datePublished: '2016-04-23T15:22:59.702Z'
-dateModified: '2016-04-23T15:22:48.905Z'
+datePublished: '2016-04-23T15:24:21.611Z'
+dateModified: '2016-04-23T15:24:12.790Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-23-contact-me.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-23-contact-me.md
-published: true
 url: contact-me/index.html
 _type: Article
 
