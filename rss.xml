@@ -4,7 +4,7 @@
         <description><![CDATA[Bladesmith Shop]]></description>
         <link>http://www.killgoreforge.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 03:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 15:14:48 GMT</lastBuildDate>
         <atom:link href="http://www.killgoreforge.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>http://www.killgoreforge.com/making-the-transition-to-hidden-tang-knives-with-guards/index.html</link>
             <guid isPermaLink="false">c9088d4a-4aff-4f07-8437-29a351b90e64</guid>
             <pubDate>Mon, 18 Apr 2016 03:00:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact Me]]></title>
+            <description><![CDATA[<p>Email me at cody@killgoreforge.com or call/text to 318-607-7198</p>]]></description>
+            <link>http://www.killgoreforge.com/contact-me/index.html</link>
+            <guid isPermaLink="false">8bd23194-5460-4c5e-bad1-ff875826a2f5</guid>
+            <pubDate>Sat, 23 Apr 2016 15:14:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
